@@ -1,0 +1,58 @@
+
+
+/* header{
+    background-color: teal;
+} */
+/* .header-logo h3{
+    color: white;
+    font-weight: bold;
+    padding-top: 21px;
+    word-spacing: 3px;
+    letter-spacing: 1px;
+} 
+.primary-menu ul li {
+    display: inline-block;
+}
+.primary-menu ul li a{
+    display: block;
+    color: #fff;
+    padding: 0 30px;
+    font-size: 20px;
+    line-height: 70px;
+    text-decoration: none;
+    font-weight: bold;
+}
+*/
+
+.banner {
+    background-image: url(billy-huynh-W8KTS-mhFUE-unsplash.jpg);
+    width: 100%;
+}
+.banner-text {
+    padding: 150px 0px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    color: white;
+}
+
+
+.about h3, p{
+  letter-spacing: 1px;
+}
+
+.product-right h2{
+    padding-left: 34px;
+}
+
+.product-right ul li {
+    list-style: none;
+    /* background-color: orange; */
+    /* box-shadow: 2px 2px 2px 1px; */
+    margin-bottom: 18px;
+    padding: 5px 15px;
+    border-radius: 12px;
+}
+
+footer p {
+   margin-top: 20px;
+}
